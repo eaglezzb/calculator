@@ -9,7 +9,7 @@ and chai.  The `mocha-junit-reporters` package is included to provide XML
 output that can be presented in a continuous integration tool like
 [Azure DevOps](https://azure.com/devops).
 
-chenck in test
+[![Build Status](https://dev.azure.com/v-zonz/NC/_apis/build/status/eaglezzb.calculator?branchName=master)](https://dev.azure.com/v-zonz/NC/_build/latest?definitionId=1?branchName=master)
 
 To build, simply:
 
